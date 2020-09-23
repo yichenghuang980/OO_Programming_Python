@@ -15,4 +15,10 @@ Calculate Amortization, APR(annual percentage rate) and format them in a nicer a
 5. Update the panel containing top 4 scores, player names,and different functional buttons.\
 
 ## Project 3: 
-Add diagnal movement function on the basis of project 2. Also, sleep for a given time period defined by user and display colorful alternating background when the crafter successfully reaches the end within specific time periods.
+1. Add diagnal movement function on the basis of project 2.\
+2. Sleep for a given time period defined by user.\
+3. Display colorful alternating background when the object successfully reaches the target area within specific time periods.
+### General
+This program is a game where the user has to complete a maze in the least amount of moves by avoiding tripwires.\
+It keeps track of players names, moves, and scores.\
+The home screen displays the top scores and enables the user to start new games while the field window is used for gameplay.
