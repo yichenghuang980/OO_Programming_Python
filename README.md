@@ -18,7 +18,7 @@
 4. Get the top 4 game player's names and their scores after they move the object to a target area.
 5. Update the panel containing top 4 scores, player names, and different functional buttons.
 
-## Project 3:
+## Project 3
 ![gameMiddle](https://github.com/yichenghuang980/OO_Programming_Python/blob/master/screenshots/pj2_play.png)
 
 ### Improvements
